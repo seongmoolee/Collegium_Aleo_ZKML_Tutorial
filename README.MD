@@ -1,4 +1,4 @@
-# ZKML Tutorial For Collegium-Aleo by Ludium. 
+# ZKML Tutorial For Aleo Collegium by Ludium. 
 Follow Ludium for more information. <br>
 <br>
 ZKML 한국어 튜토리얼입니다. 루디움에서 제작했습니다. https://ludium.world/
