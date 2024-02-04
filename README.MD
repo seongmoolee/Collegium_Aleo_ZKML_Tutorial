@@ -1,6 +1,7 @@
 # ZKML Tutorial For Collegium-Aleo by Ludium. 
-follow ludium for more informatio <br>
+Follow Ludium for more information. <br>
 <br>
+ZKML 한국어 튜토리얼입니다. 루디움에서 제작했습니다. https://ludium.world/
 
 ## Credits: the original repositories this tutorial is based on 
 ZKML - Decision Tree: https://github.com/storswiftlabs/zkML <br>
