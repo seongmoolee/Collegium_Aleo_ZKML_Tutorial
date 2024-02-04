@@ -1,6 +1,6 @@
 ZKML Tutorial For Collegium-Aleo by Ludium. 
 
 Credits: the original repositories this tutorial is based on 
-ZKML - Decision Tree: https://github.com/storswiftlabs/zkML
-ZK Book Recommender: https://github.com/Danielto1404/aleo-boosting/tree/main/book-recommender-system
+ZKML - Decision Tree: https://github.com/storswiftlabs/zkML \n
+ZK Book Recommender: https://github.com/Danielto1404/aleo-boosting/tree/main/book-recommender-system \n 
 ZK-KYC: https://github.com/B1boid/zk-KYC
